@@ -1,0 +1,184 @@
+Origen,Destino,Longitud
+Pantitlán,Zaragoza,1320.0
+Zaragoza,Gómez Farías,762.0
+Gómez Farías,Boulevard Puerto Aéreo,611.0
+Boulevard Puerto Aéreo,Balbuena,595.0
+Balbuena,Moctezuma,703.0
+Moctezuma,San Lázaro,478.0
+San Lázaro,Candelaria,866.0
+Candelaria,Merced,698.0
+Merced,Pino Suárez,745.0
+Pino Suárez,Isabel la Católica,382.0
+Isabel la Católica,Salto del Agua,445.0
+Salto del Agua,Balderas,458.0
+Balderas,Cuauhtémoc,409.0
+Cuauhtémoc,Insurgentes,793.0
+Insurgentes,Sevilla,645.0
+Sevilla,Chapultepec,501.0
+Chapultepec,Juanacatlán,973.0
+Juanacatlán,Tacubaya,1158.0
+Tacubaya,Observatorio,1262.0
+Cuatro Caminos,Panteones,1639.0
+Panteones,Tacuba,1416.0
+Tacuba,Cuitláhuac,637.0
+Cuitláhuac,Popotla,620.0
+Popotla,Colegio Militar,462.0
+Colegio Militar,Normal,516.0
+Normal,San Cosme,657.0
+San Cosme,Revolución,537.0
+Revolución,Hidalgo,587.0
+Hidalgo,Bellas Artes,447.0
+Bellas Artes,Allende,387.0
+Allende,Zócalo,602.0
+Zócalo,Pino Suárez,745.0
+Pino Suárez,San Antonio Abad,817.0
+San Antonio Abad,Chabacano,642.0
+Chabacano,Viaducto,774.0
+Viaducto,Xola,490.0
+Xola,Villa de Cortés,698.0
+Villa de Cortés,Nativitas,750.0
+Nativitas,Portales,924.0
+Portales,Ermita,748.0
+Ermita,General Anaya,838.0
+General Anaya,Tasqueña,1330.0
+Indios Verdes,Deportivo 18 de Marzo,1166.0
+Deportivo 18 de Marzo,Potrero,966.0
+Potrero,La Raza,1106.0
+La Raza,Tlatelolco,1445.0
+Tlatelolco,Guerrero,1042.0
+Guerrero,Hidalgo,702.0
+Hidalgo,Juárez,251.0
+Juárez,Balderas,659.0
+Balderas,Niños Héroes,665.0
+Niños Héroes,Hospital General,559.0
+Hospital General,Centro Médico,653.0
+Centro Médico,Etiopía/Plaza de la Transparencia,1119.0
+Etiopía/Plaza de la Transparencia,Eugenia,950.0
+Eugenia,División del Norte,715.0
+División del Norte,Zapata,794.0
+Zapata,Coyoacán,1153.0
+Coyoacán,Viveros/Derechos Humanos,908.0
+Viveros/Derechos Humanos,Miguel Ángel de Quevedo,824.0
+Miguel Ángel de Quevedo,Copilco,1295.0
+Copilco,Universidad,1306.0
+Santa Anita,Jamaica,758.0
+Jamaica,Fray Servando,1033.0
+Fray Servando,Candelaria,633.0
+Candelaria,Morelos,1062.0
+Morelos,Canal del Norte,910.0
+Canal del Norte,Consulado,884.0
+Consulado,Bondojito,645.0
+Bondojito,Talismán,959.0
+Talismán,Martín Carrera,1129.0
+Politécnico,Instituto del Petróleo,1188.0
+Instituto del Petróleo,Autobuses del Norte,1067.0
+Autobuses del Norte,La Raza,975.0
+La Raza,Misterios,892.0
+Misterios,Valle Gómez,969.0
+Valle Gómez,Consulado,679.0
+Consulado,Eduardo Molina,815.0
+Eduardo Molina,Aragón,860.0
+Aragón,Oceanía,1219.0
+Oceanía,Terminal Aérea,1174.0
+Terminal Aérea,Hangares,1153.0
+Hangares,Pantitlán,1644.0
+El Rosario,Tezozómoc,1257.0
+Tezozómoc,Azcapotzalco,973.0
+Azcapotzalco,Ferrería,1173.0
+Ferrería,Norte 45,1072.0
+Norte 45,Vallejo,660.0
+Vallejo,Instituto del Petróleo,755.0
+Instituto del Petróleo,Lindavista,1258.0
+Lindavista,Deportivo 18 de Marzo,1075.0
+Deportivo 18 de Marzo,La Villa – Basílica,570.0
+La Villa – Basílica,Martín Carrera,1141.0
+El Rosario,Aquíles Serdán,1615.0
+Aquíles Serdán,Camarones,1402.0
+Camarones,Refinería,952.0
+Refinería,Tacuba,1295.0
+Tacuba,San Joaquín,1433.0
+San Joaquín,Polanco,1163.0
+Polanco,Auditorio,812.0
+Auditorio,Constituyentes,1430.0
+Constituyentes,Tacubaya,1005.0
+Tacubaya,San Pedro de los Pinos,1084.0
+San Pedro de los Pinos,San Antonio,606.0
+San Antonio,Mixcoac,788.0
+Mixcoac,Barranca del Muerto,1476.0
+Garibaldi,Bellas Artes,634.0
+Bellas Artes,San Juan de Letrán,456.0
+San Juan de Letrán,Salto del Agua,292.0
+Salto del Agua,Doctores,564.0
+Doctores,Obrera,761.0
+Obrera,Chabacano,1143.0
+Chabacano,La Viga,843.0
+La Viga,Santa Anita,633.0
+Santa Anita,Coyuya,968.0
+Coyuya,Iztacalco,993.0
+Iztacalco,Apatlaco,910.0
+Apatlaco,Aculco,534.0
+Aculco,Escuadrón 201,789.0
+Escuadrón 201,Atlalilco,1738.0
+Atlalilco,Iztapalapa,732.0
+Iztapalapa,Cerro de la Estrella,717.0
+Cerro de la Estrella,UAM I,1135.0
+UAM I,Constitución de 1917,1137.0
+Pantitlán,Puebla,1380.0
+Puebla,Ciudad Deportiva,800.0
+Ciudad Deportiva,Velódromo,1110.0
+Velódromo,Mixiuhca,821.0
+Mixiuhca,Jamaica,942.0
+Jamaica,Chabacano,1031.0
+Chabacano,Lázaro Cardenas,1000.0
+Lázaro Cardenas,Centro Médico,1059.0
+Centro Médico,Chilpancingo,1152.0
+Chilpancingo,Patriotismo,955.0
+Patriotismo,Tacubaya,1133.0
+Pantitlán,Agrícola Oriental,1409.0
+Agrícola Oriental,Canal de San Juan,1093.0
+Canal de San Juan,Tepalcates,1456.0
+Tepalcates,Guelatao,1161.0
+Guelatao,Peñón Viejo,2206.0
+Peñón Viejo,Acatitla,1379.0
+Acatitla,Santa Marta,1100.0
+Santa Marta,Los Reyes,1783.0
+Los Reyes,La Paz,1956.0
+Ciudad Azteca,Plaza Aragón,574.0
+Plaza Aragón,Olímpica,709.0
+Olímpica,Ecatepec,596.0
+Ecatepec,Múzquiz,1485.0
+Múzquiz,Río de los Remedios,1155.0
+Río de los Remedios,Impulsora,436.0
+Impulsora,Nezahualcóyotl,1393.0
+Nezahualcóyotl,Villa de Aragón,1335.0
+Villa de Aragón,Bosques de Aragón,784.0
+Bosques de Aragón,Deportivo Oceanía,1165.0
+Deportivo Oceanía,Oceanía,863.0
+Oceanía,Romero Rubio,809.0
+Romero Rubio,Ricardo Flores Magón,908.0
+Ricardo Flores Magón,San Lázaro,907.0
+San Lázaro,Morelos,1296.0
+Morelos,Tepito,498.0
+Tepito,Lagunilla,611.0
+Lagunilla,Garibaldi,474.0
+Garibaldi,Guerrero,757.0
+Guerrero,Buenavista,521.0
+Tláhuac,Tlaltenco,1298.0
+Tlaltenco,Zapotitlán,1115.0
+Zapotitlán,Nopalera,1276.0
+Nopalera,Olivos,1360.0
+Olivos,Tezonco,490.0
+Tezonco,Periférico Oriente,1545.0
+Periférico Oriente,Calle 11,1111.0
+Calle 11,Lomas Estrella,906.0
+Lomas Estrella,San Andrés Tomatlán,1060.0
+San Andrés Tomatlán,Culhuacán,990.0
+Culhuacán,Atlalilco,1671.0
+Atlalilco,Mexicaltzingo,1922.0
+Mexicaltzingo,Ermita,1805.0
+Ermita,Eje Central,895.0
+Eje Central,Parque de los Venados,1280.0
+Parque de los Venados,Zapata,563.0
+Zapata,Hospital 20 de Noviembre,450.0
+Hospital 20 de Noviembre,Insurgentes Sur,725.0
+Insurgentes Sur,Mixcoac,651.0
